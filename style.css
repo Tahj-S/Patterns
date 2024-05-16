@@ -15,7 +15,8 @@ html {
   }
   
   body {
-    background-color: black;
+    background: radial-gradient(gray, gray);
+    background: radial-gradient(black, gray);
     background-image: url('Pattern1.png'); /* Specify the correct path to the background image */
     background-size: 10%;
     animation: pan 180s linear infinite;
